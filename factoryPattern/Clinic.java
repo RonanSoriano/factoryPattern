@@ -9,7 +9,7 @@ public class Clinic {
 
         System.out.println("[1] Dog");
         System.out.println("[2] Cat");
-        System.out.print("\nChoose your pet number: ");
+        System.out.print("\nChoose your pet numberrr: ");
         Integer choice = input.nextInt();
 
         PetRecord petFile = new PetRecord();
